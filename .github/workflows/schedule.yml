@@ -15,4 +15,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: e76e94c06461e33c784b65652e640ae5
-          TIMEZONE: Canada/Nova_Scotia
+          TIMEZONE: America/Nova_Scotia
